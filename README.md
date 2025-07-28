@@ -2,6 +2,7 @@
 - 👀 I’m interested in Programming, Video Games, PC building
 - 🌱 I’m currently learning React
 - 😄 Pronouns: He/Him
+- [Portfolio](https://www.venkateshraju.me)
 - ![Visitor Count](https://komarev.com/ghpvc/?username=venkateshraju04&color=blue)
 
 <!---
