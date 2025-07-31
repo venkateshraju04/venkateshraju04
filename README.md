@@ -5,7 +5,7 @@
 
 - 🌱 i’m currently learning **Next.js, AWS**
 
-- 👨‍💻 my portfolio [venkateshraju.me](venkateshraju.me)
+- 👨‍💻 my portfolio [venkateshraju.me](https://venkateshraju.me)
 
 - 📫 reach me here **nrvenkateshraju@gmail.com**
 
