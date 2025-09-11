@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I try out different custom roms every other day :)**
 
+-  Personal blogs [here](https://blog.venkateshraju.me)
+
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/venkateshraju04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkateshraju04" height="30" width="40" /></a>
