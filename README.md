@@ -7,7 +7,7 @@
 
 - 👨‍💻 my portfolio [venkateshraju.me](https://venkateshraju.me) | [dev.venkateshraju.me](https://dev.venkateshraju.me)
 
-- 📫 reach me here **nrvenkateshraju@gmail.com**
+- 📫 reach me here **me@venkateshraju.me**
 
 - ⚡ Fun fact **I try out different custom roms every other day :)**
 
