@@ -6,11 +6,11 @@
 - 🌱 i’m currently learning **Next.js, AWS**
 
 - 👨‍💻 my portfolio [venkateshraju.in](https://venkateshraju.in) 
-- 📫 reach me here **me@venkateshraju.me**
+- 📫 reach me here **me@venkateshraju.in**
 
 - ⚡ Fun fact **I try out different custom roms every other day :)**
 
--  Personal blogs [here](https://blog.venkateshraju.me)
+-  Personal blogs [here](https://blog.venkateshraju.in)
 
 <h3 align="left">Socials:</h3>
 <p align="left">
