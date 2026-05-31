@@ -1,15 +1,18 @@
-<h2 align="center">Hi 👋! My name is Venkatesh....</h2>
+<h2 align="center">yo!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateshraju04&label=Profile%20views&color=0e75b6&style=flat" alt="venkateshraju04" /> </p>
 
-[venkateshraju.in](https://venkateshraju.in) 
+<div align="center">
+  <a href="https://venkateshraju.in" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-venkateshraju.in-0f172a?style=for-the-badge&labelColor=111827&color=38bdf8" />
+  </a>
+</div>
+
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkateshraju04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venkateshraju04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="180em" src="https://kayan-github-profile-projects-featu.vercel.app/api?username=venkateshraju04&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=venkateshraju04&theme=tokyonight&hide_border=true" />
 </div>
 
 ###
