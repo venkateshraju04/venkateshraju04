@@ -1,6 +1,7 @@
-<h2 align="center">yo!</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateshraju04&label=Profile%20views&color=0e75b6&style=flat" alt="venkateshraju04" /> </p>
+[![header](https://raw.githubusercontent.com/venkateshraju04/venkateshraju04/refs/heads/main/header.png)](https://venkateshraju.in)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=venkateshraju04&label=Profile%20views&color=0e75b6&style=flat" alt="venkateshraju04" /> </p>
 
 <div align="center">
   <a href="https://venkateshraju.in" target="_blank">
@@ -18,10 +19,6 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 ###
 
@@ -93,17 +90,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="mailto:me@venkateshraju.in" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/venkateshraju04/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
