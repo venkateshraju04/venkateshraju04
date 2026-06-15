@@ -3,11 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=venkateshraju04&label=Profile%20views&color=0e75b6&style=flat" alt="venkateshraju04" /> </p>
 
-<div align="center">
-  <a href="https://venkateshraju.in" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-venkateshraju.in-0f172a?style=for-the-badge&labelColor=111827&color=38bdf8" />
-  </a>
-</div>
 
 ###
 
